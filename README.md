@@ -1,6 +1,7 @@
-# mkm_notebooks
+# mkmnotebooks
 
 Author Matthew K. MacLeod
+
 see license file: license.txt
 
 
