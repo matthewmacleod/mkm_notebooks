@@ -1,4 +1,4 @@
-# mkmnotebooks
+# mkm notebooks
 
 Author Matthew K. MacLeod
 
