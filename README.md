@@ -7,7 +7,7 @@ see license file: license.txt
 
 A collection of jupyter notebooks and tutorials
 
-* anscombes         simple tutorial on the Anscombe data set
+* **anscombes**        simple tutorial on the Anscombe data set
   * explore some simple statistics
   * illustrate the importance of visualization
   * robust vs non-robust statistics
@@ -16,14 +16,14 @@ A collection of jupyter notebooks and tutorials
   * the role of outliers
   * explore bayesian approach
 
-* ctl               simple investigation of the central limit theorem
+* **ctl**               simple investigation of the central limit theorem
   * sample various distributions
     * poisson
     * exponential
     * power law
   * illustrate the central limit theorem
 
-* k_means           unsupervised learning example
+* **k_means**          unsupervised learning example
   * play with k-means algorithm
   * examine various distance metrics
     * euclidean
