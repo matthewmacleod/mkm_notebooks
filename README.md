@@ -29,5 +29,7 @@ A collection of jupyter notebooks and tutorials
     * euclidean
     * mahalanobis
 
+* **mkm_julia_notes**  simple notes on the Julia programming language
+
 * mkm_ipython_notes ipython shortcuts
 
