@@ -5,7 +5,7 @@ Author Matthew K. MacLeod
 see license file: license.txt
 
 
-A collection of jupyter notebooks and tutorials
+A collection of Jupyter notebooks and tutorials
 
 * **anscombes**    python simple tutorial on the Anscombe data set
   * explore some simple statistics
@@ -54,5 +54,5 @@ A collection of jupyter notebooks and tutorials
     * views
     * analytics
 
-* mkm_ipython_notes ipython shortcuts
+* **mkm_ipython_notes** Jupyter shortcuts
 
