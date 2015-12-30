@@ -43,7 +43,7 @@ A collection of Jupyter notebooks and tutorials
   * machine learning
   * streaming
 
-* **mkm_sql_notes**  simple SQL tutorial
+* **mkm_sql_notes**  simple **SQL** tutorial
   * create some databases
   * loading data
   * some advanced topics
