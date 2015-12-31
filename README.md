@@ -43,6 +43,11 @@ A collection of Jupyter notebooks and tutorials
   * machine learning
   * streaming
 
+* **mkm_nlp_notes** explore **NLP** techniques
+  * explore NLP from scratch
+  * starting from simple approaches
+  * contrast with more advanced approaches
+
 * **mkm_sql_notes**  simple **SQL** tutorial
   * create some databases
   * loading data
