@@ -4,7 +4,6 @@ Author Matthew K. MacLeod
 
 see lgpl license: license.txt
 
-
 A collection of Jupyter notebooks and tutorials
 
 * **anscombes**    simple Python tutorial on the Anscombe data set
@@ -45,7 +44,7 @@ A collection of Jupyter notebooks and tutorials
 
 * **mkm_nlp_notes** explore **NLP** techniques
   * explore NLP from scratch
-  * starting from simple approaches
+  * start from simple approaches
   * contrast with more advanced approaches
 
 * **mkm_sql_notes**  simple **SQL** tutorial
