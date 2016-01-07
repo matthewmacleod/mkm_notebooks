@@ -38,6 +38,7 @@ A collection of Jupyter notebooks and tutorials
   * background
   * configuration
   * introduction
+  * dataframes
   * HQL
   * machine learning
   * streaming
