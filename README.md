@@ -2,7 +2,7 @@
 
 Author Matthew K. MacLeod
 
-see lgpl license: license.txt
+lgpl license: license.txt
 
 A collection of Jupyter notebooks and tutorials
 
