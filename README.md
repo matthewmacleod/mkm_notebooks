@@ -61,3 +61,7 @@ A collection of Jupyter notebooks and tutorials
 
 * **mkm_ipython_notes** Jupyter shortcuts
 
+* **mkm_diabetes_models** Jupyter shortcuts
+
+    * a kitchen sink of models and SNN showcase
+
