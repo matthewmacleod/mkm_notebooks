@@ -61,7 +61,11 @@ A collection of Jupyter notebooks and tutorials
 
 * **mkm_ipython_notes** Jupyter shortcuts
 
-* **mkm_diabetes_models** Jupyter shortcuts
+* **mkm_diabetes_models** 
 
     * a kitchen sink of models and SNN showcase
+
+* **mkm_diabetes_models** 
+
+    * bayesian logistic regression tutorial on diabetes data
 
